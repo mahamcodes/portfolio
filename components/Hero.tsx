@@ -1,7 +1,5 @@
 'use client';
 
-import Image from 'next/image';
-
 export default function Hero() {
   return (
     <section
@@ -50,12 +48,10 @@ export default function Hero() {
           <div className="flex-shrink-0 animate-fade-in" style={{ animationDelay: '0.2s' }}>
             <div className="relative group">
               <div className="relative w-48 h-64 sm:w-56 sm:h-72 lg:w-64 lg:h-80 rounded-xl overflow-hidden border-2 border-white/10">
-                <Image
-                  src="/profile.jpg"
+                <img
+                  src="/portfolio/profile.jpg"
                   alt="Maham Fatima"
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  priority
+                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               </div>
             </div>
