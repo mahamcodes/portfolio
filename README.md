@@ -1,4 +1,4 @@
-# Fauzaan Hafeez - Portfolio Website
+# Maham Fatima - Portfolio Website
 
 A modern, responsive portfolio website showcasing my professional experience, skills, and projects as a Senior Software Engineer and Technical Lead.
 
@@ -98,9 +98,9 @@ To customize the portfolio:
 
 ## 📱 Contact
 
-- **Email**: fauzaanhafeez@icloud.com
-- **Phone**: (647)-633-6494
-- **LinkedIn**: [linkedin.com/in/fauzaan-h-sheikh](https://www.linkedin.com/in/maham-f-7078a6a1/)
+- **Email**: mahamfatima96@icloud.com
+- **Phone**: (437)-223-3303
+- **LinkedIn**: [https://www.linkedin.com/in/maham-f-7078a6a1/](https://www.linkedin.com/in/maham-f-7078a6a1/)
 - **Location**: Mississauga, ON, Canada
 
 ## 📄 License
