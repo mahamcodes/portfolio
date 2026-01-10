@@ -99,9 +99,9 @@ export default function About() {
                 <code>
                   <span className="text-pink-400">const</span> <span className="text-cyan-300">developer</span> = {'{'}
                   <br />
-                  &nbsp;&nbsp;<span className="text-violet-400">passion</span>: <span className="text-emerald-400">"building great UX"</span>,
+                  &nbsp;&nbsp;<span className="text-violet-400">passion</span>: <span className="text-emerald-400">"Engineering / Impact"</span>,
                   <br />
-                  &nbsp;&nbsp;<span className="text-violet-400">focus</span>: <span className="text-emerald-400">"scalability"</span>
+                  &nbsp;&nbsp;<span className="text-violet-400">focus</span>: <span className="text-emerald-400">"Performance / Architecture"</span>
                   <br />
                   {'}'};
                 </code>
